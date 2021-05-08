@@ -9,7 +9,7 @@ Visualization was done using chart.js.
 React.js, Visual Studio Code, Chart.js, MaterialUI
 
 ## Getting Started 
-npm audit start
+npm audit start  
 npm start
 
 ## DEMO
